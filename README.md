@@ -387,6 +387,6 @@
 
   D:\Github\winrar-keygen>cd D:\winrar-keygen
 
-  D:\winrar-keygen>winrar-keygen.exe "Phantom" "Single PC License" >> rarreg.key
+  D:\winrar-keygen>winrar-keygen.exe "Phantom" "Unlimited Company License" >> rarreg.key
 
   ```
